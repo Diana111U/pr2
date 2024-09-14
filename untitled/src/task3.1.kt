@@ -6,5 +6,5 @@ fun main()
     val keyWord = readln()
     print("Исходный текст: ")
     val basedText = readln()
-
+//123123
 }
